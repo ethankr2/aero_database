@@ -1,0 +1,2 @@
+Mach,altitude_ft,target_CL,q_cruise_psf,Sref_ft2,CDi_trimmed,CDi_elevator0,delta_CDi_trim,delta_Di_trim_lbf,Cm_elevator0,Cm_trimmed,alpha_elevator0_deg,alpha_trimmed_deg,elevator_trim_deg
+0.9,33500.0,0.33,303.09495624956014,500.0,0.0146805,0.0122627,0.002417800000000001,366.4114926100934,-0.08214,-0.0,4.26293,5.31491,-4.03109
