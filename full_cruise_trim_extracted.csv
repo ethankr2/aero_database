@@ -1,0 +1,2 @@
+geometry,config,leflap_deg,flap_deg,aileron_deg,elevator_deg,rudder_deg,Alpha,Beta,CL,CLtot_raw,CL_from_CX_CZ,CXtot,CZtot,CDi,CDtot_AVL,CDvis_AVL,Cm,Xnp,CLa,Cma,e,Xref_ft,Cref_ft,X_LEMAC_ft,Mach,altitude_ft,target_CL,q_cruise_psf,file
+full_aircraft,cruise_trim_clean,0.0,0.0,0.0,-4.03109,0.0,5.31491,0.0,0.33,0.33,0.32999890859374503,0.01595,-0.32994,0.0146805,0.01468,0.0,-0.0,,,,0.9931,26.52,13.81721,22.868,0.9,33500.0,0.33,303.09495624956014,full_cruise_trim.ft
